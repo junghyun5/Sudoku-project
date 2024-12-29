@@ -1,0 +1,7 @@
+.text-area *.text{
+    -fx-text-alignment: center;
+}
+
+.label {
+    -fx-font-size: 50px;
+}

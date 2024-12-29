@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: linear-gradient(to bottom, rgb(66,64,107,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#welcomeText {
+    -fx-text-fill: white;
+}
+
+#username {
+    -fx-text-fill: white;
+}
+
+#password {
+    -fx-text-fill: white;
+}
